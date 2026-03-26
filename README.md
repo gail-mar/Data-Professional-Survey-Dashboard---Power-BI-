@@ -5,7 +5,7 @@ Power BI dashboard analyzing global data professional survey data to identify sa
 
 📄 **Full Dashboard (PDF):** ./dashboard.pdf
 
-##🧠 The Real Question Behind This Project
+## 🧠 The Real Question Behind This Project
 What actually drives success and satisfaction in data careers—and where are people getting it wrong? This dashboard breaks down salaries, skills, and sentiment to uncover the gap between expectation vs reality in the data field.
 
 ### 🔥 Key Insights (That Actually Matter)
